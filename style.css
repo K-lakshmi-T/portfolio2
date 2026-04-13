@@ -10,7 +10,7 @@ body {
     color: #333;
 }
 
-/* Navbar */
+
 header {
     background: #333;
     color: #fff;
@@ -37,15 +37,14 @@ nav ul li a {
     text-decoration: none;
 }
 
-/* Hero */
-.hero {
+hero {
     text-align: center;
     padding: 50px;
     background: #007bff;
     color: white;
 }
 
-/* Sections */
+
 section {
     padding: 40px;
     margin: 20px;
@@ -53,7 +52,7 @@ section {
     border-radius: 10px;
 }
 
-/* Form */
+
 form {
     display: flex;
     flex-direction: column;
